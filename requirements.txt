@@ -1,0 +1,7 @@
+openai-whisper>=20240930
+python-vlc>=3.0.21203
+torch>=2.6.0
+numpy>=1.26.4
+requests>=2.32.3
+colorama>=0.4.6
+pydub>=0.25.1 
